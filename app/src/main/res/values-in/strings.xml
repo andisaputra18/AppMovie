@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cofco Movie</string>
+    <string name="action_settings">Pengaturan</string>
+    <string name="action_search">Pencarian</string>
+    <string name="upcoming">Akan Datang</string>
+    <string name="now_playing">Dimainkan</string>
+    <string name="popular">Populer</string>
+    <string name="title_movies">Avenger Infinity</string>
+    <string name="vote_average">7.5</string>
+    <string name="avenger_infinity">Avenger Infinity</string>
+    <string name="release_date">Tanggal Rilis</string>
+    <string name="overview">Gambaran Cerita</string>
+    <string name="favorite">Tambah ke Favorit</string>
+    <string name="delete">Hapus dari Favorit</string>
+    <string name="detail_movie">Detail Film</string>
+    <string name="action_favorite">Film Favorit</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="favorite_movie">Film Favorit</string>
+    <string name="daily_reminder">Pengingat Harian</string>
+    <string name="daily_reminder_detail">Pengingat untuk kembali ke aplikasi</string>
+    <string name="release_reminder">Pengingat Rilis </string>
+    <string name="release_reminder_detail">Pengingat untuk menampilkan film yang rilis hari ini</string>
+    <string name="message_notif_daily">Kembali lah ke aplikasi Cofco Movie</string>
+    <string name="message_notif_release">Film baru telah rilis hari ini!</string>
+    <string name="reminder">Pengingat</string>
+    <string name="language">Bahasa</string>
+    <string name="change_language_setting">Pengaturan ubah bahasa</string>
+    <string name="detail_language">Bahasa di dalam aplikasi</string>
+    <string name="search_hint">Masukkan judul film</string>
+</resources>
